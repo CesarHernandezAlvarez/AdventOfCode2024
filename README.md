@@ -42,11 +42,11 @@ day01
 
 # Solutions
 
-Day 1 (part 1): 1873376
-Day 1 (part 2): 18997088
-Day 2 (part 1): 606
-Day 2 (part 2): 644
-Day 3 (part 1): 164730528
-Day 3 (part 2): 70478672
-Day 4 (part 1): 2358
-Day 4 (part 2): 1737
+- Day 1 (part 1): 1873376
+- Day 1 (part 2): 18997088
+- Day 2 (part 1): 606
+- Day 2 (part 2): 644
+- Day 3 (part 1): 164730528
+- Day 3 (part 2): 70478672
+- Day 4 (part 1): 2358
+- Day 4 (part 2): 1737
