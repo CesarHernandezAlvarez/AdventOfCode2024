@@ -39,14 +39,3 @@ day01
 4. Insert the name of the file (it is indicated when asked for an input).
 
 5. Select the part to solve (as indicated in the website, every problem consists of two parts).
-
-# Solutions
-
-- Day 1 (part 1): 1873376
-- Day 1 (part 2): 18997088
-- Day 2 (part 1): 606
-- Day 2 (part 2): 644
-- Day 3 (part 1): 164730528
-- Day 3 (part 2): 70478672
-- Day 4 (part 1): 2358
-- Day 4 (part 2): 1737
